@@ -51,21 +51,20 @@ The **script** for this interview: [script](https://docs.google.com/document/d/1
 
 The **recording** of the interview: [recording](https://drive.google.com/file/d/1ycqqKj9RBzxUnFnvT4HJR6xiAt6vQTvW/view?usp=sharing).
 
-The **transcript** of the interview: [transcript]().
+The **transcript** of the interview: [transcript](https://docs.google.com/document/d/1jCDdQEBhLOqKOGL81BfvKfx0Rher_YkyyeidWdGJeGE/edit?usp=sharing).
 
 ### Insights from the interview:
 
-**:one: How (3:04)**
-> I.
+**:one: What features are and aren't important to the user for tracking movies (08:01)**
+> I would want to know the year, maybe like if it's a number in a series like this is 4 out of 8 films. I would probably want to know the main genres. It's runtime. And then like a synopsis, maybe if this is something that I can add on to the list. ... Honestly, that's probably all I need. Yeah, I don't care about like user ratings and stuff like that.
 
-**:two: The  (5:03)**
-> I.
+**:two: The tradeoffs between different methods (17:57)**
+> Yes, I would say that is something that is preferable for using IMDB, that I have all this extra info. Like it really is a database of movies, which makes sense.
+Notes is good for just like very casually/informally, like when I'm talking to my friend and she's like, oh, let's watch this together. I'm like, OK, and I'll jot it down, because sometimes that's just, if I'm already, like, on my phone, it's a bit easier than (although I have the app but still), it might just be easier and faster because just writing it down takes a second, whereas creating a new list takes a bit of time so yeah. That's something that's a benefit of IMDB. So my ideal movie app, I guess, would have like preserving the how fast it is to use the notes app to jot down but not losing all that info the IMDb gives and like how stylized IMDb is.
 
-**:three: What  (6:13)**
-> Y.
 
-**:four: The (17:40)**
->O.
+**:three: Desire for different list views (22:38)**
+> I will say that looking at it again, this list on Letterboxd does somewhat obscure things compared to IMDB lists because I know IMDB would list it in order where you can see like years, genre and brief synopsis. All that is still contained in the list just in like a row and doesn't take up space. Whereas Letterboxd, all you see is like the cover of the film. And then I guess you can click on it and access any more info, but that's one thing that I think is way better about IMDB. It's kind of weird that it leaves that out because like if I was going to share this with Dana, I would want to be able for her to see also the year and info.
 
 
 
