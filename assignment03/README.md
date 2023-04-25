@@ -49,7 +49,7 @@ The **script** for this interview: [script](https://docs.google.com/document/d/1
 
 **2. User Data**
 
-The **recording** of the interview: [recording]().
+The **recording** of the interview: [recording](https://drive.google.com/file/d/1ycqqKj9RBzxUnFnvT4HJR6xiAt6vQTvW/view?usp=sharing).
 
 The **transcript** of the interview: [transcript]().
 
