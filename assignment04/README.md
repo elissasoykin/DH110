@@ -6,15 +6,17 @@
 - Makes clear what issues frustrate users with current solutions
 
 ## 2 Tasks
-- Create a list of movies and share it with others so that they can edit it too
-- Browse through lists created by other users featuring a particular movie, as well as other movies with the same tags, in order to find similar and related movies
+1) Create a list of movies and share it with others so that they can edit it too
+2) Browse through lists created by other users featuring a particular movie, as well as other movies with the same tags, in order to find similar and related movies
 
-## Personas & Empathy Maps
+## Personas and Empathy Maps
 ### Persona 1: Polina Ivanova
-
+![polina persona profile](./persona-profile-1.png)
+![polina empathy map](./empathy-map-1.png)
 
 ### Persona 2: Tyler Chen
-
+![tyler persona profile](./persona-profile-2.png)
+![tyler empathy map](./empathy-map-2.png)
 
 ## User Scenarios and Journey Maps
 ### Polina's Scenario
@@ -28,7 +30,7 @@ Polina turns on her computer, goes to the MovieColab website, and signs in. From
 
 **Polina's Journey Map**
 
-
+![polina journey map](./journey-map-1.png)
 
 
 ### Tyler's Scenario
@@ -41,5 +43,7 @@ Tyler is in class when he receives a text from his cousin in the group chat. She
 Tyler goes to the MovieColab website and signs in to his account. From his home page, he clicks the “Lists” button under the profile icon in the top right corner. He clicks the button “New List” to create a new list. He adds the movies his cousins just texted him about to the list. He invites them as collaborators to the list by sharing it with their usernames. Next, Tyler clicks on the website’s page for the mountain-climbing documentary. He looks at other public lists made by other users including this documentary. He sees one list of movies about survival and extreme sports. He finds a movie about survival in the desert which seems interesting. He adds this to his list. He then goes back to the documentary’s page on the website. Tyler looks through the tags that users have given to the film. One of these is “cold weather, snowy aesthetic.” He clicks on that tag, and browses through other movies that users have tagged with that tag. He finds a movie about exploration in brutal weather conditions in northern Canada with high ratings from users. He adds this to the list as well. His cousins are notified that he edited their shared list, so they go check it out. They are happy to see these new movies that they had never heard of. Tyler is happy that he was able to organize their ideas, and to successfully find and suggest new movies that they might like to watch together. 
 
 **Tyler's Journey Map**
+
+![tyler journey map](./journey-map-2.png)
 
 
