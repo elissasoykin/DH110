@@ -23,7 +23,8 @@ This high-fidelity prototype will let me try to simulate the app and recreate th
 10. Browse through movies similar to a given movie
 
 ## Wireflow with design:
-
+(Note: to see the wireframe with the wireflow arrows in high quality, use the figma link in the section below)
+![wireframe with wireflow](./a7img.png)
 
 ## Link to interactive prototype:
 https://www.figma.com/file/EQJvtb8HBGJ06OVN41tYkM/DH-110---assignment-7?type=design&node-id=201%3A54&t=bc0aXyLkmcgDy1Rl-1
