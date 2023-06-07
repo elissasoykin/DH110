@@ -72,4 +72,13 @@ Wireflow with design:
 Link to interactive prototype:
 https://www.figma.com/file/EQJvtb8HBGJ06OVN41tYkM/DH-110---assignment-7?type=design&node-id=201%3A54&t=bc0aXyLkmcgDy1Rl-1
 
+## Pitch Video
+https://docs.google.com/document/d/1eP_dL6GL1aDlkIn2b9lF3Q0HRe72zMwmmIglEnNmrmA/edit?usp=sharing
+
+## Conclusion and Reflection
+In this project, I designed a website and app for movie-tracking. Specifically, this platform will allow users to browse through a database of movies, create their own lists and add movies to lists, share these lists with specified users, and work on shared, collaborative movie lists that other users have invited them to contribute to.
+
+This process has involved many steps, including first researching and critiquing competitor apps, then brainstorming the needs of users who would use this app, then creating initial/low-fidelity wireframes and wireflows. After that, I edited and clean up my wireframes. I then selected one wireframe, and made many variations, in order to come up with an interface design system. Finally, I created a high-fidelity prototype. I applied my interface design standards to my wireframes, and then added interactivity and animations. 
+
+Overall, this whole project taught me about the detailed process that goes into creating a UI/UX project and into designing apps and websites. I learned that before you even start creating your app, you conduct lots of research into competitor apps and research with users to understand what their needs and frustrations are. In fact, half of this process was the research leading up to actually designing the prototype. What I learned in the first half informed the decisions I made when desiging my app. Also, I learned about how iterative the design process is. I updated my wireframes several times to improve functionality and appearance. 
 
