@@ -33,10 +33,10 @@ https://github.com/elissasoykin/DH110/tree/main/assignment04
 
 Here, I looked at which types of people would use my app, and how they would use it. Here are examples:
 
-![polina persona profile](/assignment04/persona-profile-1.png)
-![tyler persona profile](/assignment04/persona-profile-2.png)
-![polina journey map](/assignment04/journey-map-1.png)
-![tyler journey map](/assignment04/journey-map-2.png)
+![polina persona profile](./persona-profile-1.png)
+![tyler persona profile](./persona-profile-2.png)
+![polina journey map](./journey-map-1.png)
+![tyler journey map](./journey-map-2.png)
 
 ## Low-Fidelity Prototype
 https://github.com/elissasoykin/DH110/tree/main/assignment05
@@ -67,7 +67,7 @@ The tasks supported in the prototype include: Go to home page, Go to menu, Go to
 
 Wireflow with design:
 (Note: to see the wireframe with the wireflow arrows in high quality, use the figma link in the section below)
-![wireframe with wireflow](/assignment07/a7img.png)
+![wireframe with wireflow](./a7img.png)
 
 Link to interactive prototype:
 https://www.figma.com/file/EQJvtb8HBGJ06OVN41tYkM/DH-110---assignment-7?type=design&node-id=201%3A54&t=bc0aXyLkmcgDy1Rl-1
