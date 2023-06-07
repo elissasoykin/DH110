@@ -41,15 +41,18 @@ Here, I looked at which types of people would use my app, and how they would use
 ## Low-Fidelity Prototype
 https://github.com/elissasoykin/DH110/tree/main/assignment05
 
-I then created a low-fidelity prototype of my app, ClapBoard. This includes wireframes and wireflows. Click the links to see it:
+I then created a low-fidelity prototype of my app, ClapBoard. This includes wireframes and wireflows. The purpose of this prototype is to demonstrate how the app would be organized. It focuses on the content shown on each screen and how it is divided among the screens. It does not focus on the details of the graphic design. The wireframes show the pages/screens of the app. The wireflows show which buttons link pages. Click the links to see it:
 https://drive.google.com/file/d/1LFbWNNa8EsbFiZ0x_26f_iErrDsN38Hf/view?usp=sharing
 https://www.figma.com/file/LT9o0JeObYxjPbn0RpzaTo/DH-110---assignment-5?type=design&node-id=0%3A1&t=I1Op4iqJVUVTCvzd-1
+![low-fi prototype](./lowfiprototype.png)
 
 ## Interface Design Variation 
 https://github.com/elissasoykin/DH110/tree/main/assignment06
 
 In this part, I created a digitized wireframe/wireflow, graphical interface design variations, color contrast checks, and an interface design style guide. I selected one wireframe, and made many variations. I tested several variations of grid layouts, then typography, then shapes, and then colors. Click the link to see it:
 https://www.figma.com/file/xzdasnHL1knBbwi9cvC6pg/DH-110---assignment-6?type=design&node-id=120%3A349&t=qrP01A0qE9gpAyIn-1
+
+![interface design](./interfacedesign1.png)
 
 For the color schemes, I decided to go with a mostly black-and-white design with dark blue as the accent colors. The reason for the mostly black-and-white is that, since this site is for reading about movies, finding movies, and making lists of movies, I wanted the focus to be on the content. Specifically, the page for a movie may be the first time that a user hears about a movie, or it might be representative of the movie in their minds; in any case, the aesthetic of the page can strongly subconsciously influence their perceptions of the movie. For example, the user might have the "look", "feel", and aesthetic of the movie on the page influenced by the aesthetic of the user interface itself. For this reason, I chose a mostly black-and-white scheme, without harsh or attention-stealing colors. I chose blue because it is typically associated with calmness.
 
