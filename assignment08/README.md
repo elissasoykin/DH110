@@ -48,13 +48,25 @@ https://www.figma.com/file/LT9o0JeObYxjPbn0RpzaTo/DH-110---assignment-5?type=des
 ## Interface Design Variation 
 https://github.com/elissasoykin/DH110/tree/main/assignment06
 
-In this part, I created a digitized wireframe/wireflow, graphical interface design variations, color contrast checks, and an interface design style guide. Click the link to see it:
+In this part, I created a digitized wireframe/wireflow, graphical interface design variations, color contrast checks, and an interface design style guide. I selected one wireframe, and made many variations. I tested several variations of grid layouts, then typography, then shapes, and then colors. Click the link to see it:
 https://www.figma.com/file/xzdasnHL1knBbwi9cvC6pg/DH-110---assignment-6?type=design&node-id=120%3A349&t=qrP01A0qE9gpAyIn-1
 
 For the color schemes, I decided to go with a mostly black-and-white design with dark blue as the accent colors. The reason for the mostly black-and-white is that, since this site is for reading about movies, finding movies, and making lists of movies, I wanted the focus to be on the content. Specifically, the page for a movie may be the first time that a user hears about a movie, or it might be representative of the movie in their minds; in any case, the aesthetic of the page can strongly subconsciously influence their perceptions of the movie. For example, the user might have the "look", "feel", and aesthetic of the movie on the page influenced by the aesthetic of the user interface itself. For this reason, I chose a mostly black-and-white scheme, without harsh or attention-stealing colors. I chose blue because it is typically associated with calmness.
 
-For the typography, I chose Inter, because I wanted a clean, modern, sans serif font. Although the film practice is old, this app is new and designed to keep up with a modern aesthetic and modern audience. As a result, I wanted a neat, clean, aesthetic, sans serif font. Inter is very readable and legible. For the grid layout, I used 5 columns (margin 16, gutter 8), 14 rows (margin 16, gutter 8). For the corner roundness, I chose 10px. My buttons were initially entirely rectangular (0px). I also tried 25px. I found that I did not like the very round buttons, because they seemed to cheapen the look in this particular case, and didn't seem to fit in the sleek and sophisticated, dark design that I was going for. However, I realized I didn't want the buttons to be entirely rectangular either, because then it would be hard to distinguish clickable buttons from decorative boxes or just other non-interactive rectangles. So, I went with 10px, which is sligthly rounded.
+For the typography, I chose Inter, because I wanted a clean, modern, sans serif font. Although the film practice is old, this app is new and designed to keep up with a modern aesthetic and modern audience. As a result, I wanted a neat, clean, aesthetic, sans serif font. Inter is very readable and legible. For the grid layout, I used 5 columns (margin 16, gutter 8), 14 rows (margin 16, gutter 8). For the corner roundness, I chose 10px. My buttons were initially entirely rectangular (0px). I also tried 25px. I found that I did not like the very round buttons, because they seemed to cheapen the look in this particular case, and didn't seem to fit in the sleek and sophisticated, dark design that I was going for. However, I realized I didn't want the buttons to be entirely rectangular either, because then it would be hard to distinguish clickable buttons from decorative boxes or just other non-interactive rectangles. So, I went with 10px, which is slightly rounded.
 
 ## High-Fidelity Prototype
+https://github.com/elissasoykin/DH110/tree/main/assignment07
+
+Finally, I created the high-fidelity prototype. This built upon my initial low-fidelity prototype, which I updated with the interface design system I created in the previous step. This prototype is interactive. To build it, I first applied my interface design standards to my wireframes. I then added interactivity and animations (to link frames and show what each button click does). 
+
+The tasks supported in the prototype include: Go to home page, Go to menu, Go to my lists, Create a new list, Add title to new list, Share new list with users and choose permissions, Search and add movies to new list, Save new list, Click on a movie to go to its page, Browse through movies similar to a given movie.
+
+Wireflow with design:
+(Note: to see the wireframe with the wireflow arrows in high quality, use the figma link in the section below)
+![wireframe with wireflow](/assignment07/a7img.png)
+
+Link to interactive prototype:
+https://www.figma.com/file/EQJvtb8HBGJ06OVN41tYkM/DH-110---assignment-7?type=design&node-id=201%3A54&t=bc0aXyLkmcgDy1Rl-1
 
 
